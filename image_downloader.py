@@ -1,4 +1,4 @@
-counterURL = "https://xt.zonadivas.com/counter/counter.php?params=em9uYWRpdmFzLmNvbS9hbmFraW4%3D&wasuuup=120114238832691"
+counterURL = "https://xt.ALGO.com/counter/counter.php?params=em9uYWRpdmFzLmNvbS9hbmFraW4%3D&wasuuup=120114238832691"
 import time
 from random import randint
 import datetime
